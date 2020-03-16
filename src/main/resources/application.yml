@@ -7,6 +7,6 @@ server:
   port: 8090
 logging:
   file:
-    path: /usr/local/app/server/${spring.application.name}
+    path: /usr/local/apps/server/${spring.application.name}
   level:
     root: debug
